@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plink Remote Ops"
+  short_description: "Run remote host operations through plink"
+  default_prompt: "Use $plink-remote-ops to connect to my remote host through plink and run non-interactive commands."
