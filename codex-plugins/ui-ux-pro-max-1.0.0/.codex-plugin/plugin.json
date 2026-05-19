@@ -1,0 +1,41 @@
+{
+  "name": "ui-ux-pro-max",
+  "version": "1.0.0",
+  "description": "UI/UX design review workflow for frontend changes before implementation.",
+  "author": {
+    "name": "Local",
+    "email": "local@example.com",
+    "url": "https://example.com/"
+  },
+  "homepage": "https://example.com/ui-ux-pro-max",
+  "repository": "https://example.com/ui-ux-pro-max",
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "ux",
+    "frontend",
+    "design",
+    "interaction"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "UI UX Pro Max",
+    "shortDescription": "Plan user flows, layout, and interactions before frontend changes",
+    "longDescription": "Use UI UX Pro Max before frontend work to analyze user stories, core flows, information architecture, interface structure, responsive behavior, and key interaction states.",
+    "developerName": "Local",
+    "category": "Design",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://example.com/ui-ux-pro-max",
+    "privacyPolicyURL": "https://example.com/privacy",
+    "termsOfServiceURL": "https://example.com/terms",
+    "defaultPrompt": [
+      "Plan the UI/UX before implementing this frontend change."
+    ],
+    "brandColor": "#2563EB",
+    "screenshots": []
+  }
+}
